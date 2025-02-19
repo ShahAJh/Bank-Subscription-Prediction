@@ -43,4 +43,4 @@ Banks conduct telemarketing campaigns to sell term deposits. This project applie
 ## 🔧 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bank-subscription-prediction.git
+   git clone https://github.com/ShahAJh/bank-subscription-prediction.git
